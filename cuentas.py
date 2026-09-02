@@ -1,5 +1,3 @@
-import math
-
 
 class cuenta:
     def __init__(self,nombre,saldo):
